@@ -1,0 +1,112 @@
+.Death-Note {
+  height: 100px;
+  background: black;
+  width: 623px;
+  margin-top: 103px;
+}
+.centre{
+  margin-left: auto;
+  margin-right: auto;
+}
+.diflex{
+	display: flex;
+}
+.navigation{
+	height: 20px;
+	width: 780px;
+	background: grey;
+	margin-left: 292px;
+	margin-top: 180px;
+}
+.poisk{
+	height: 26px;
+	width: 623px;
+	background: white;
+	margin-top: 50px;
+	margin-left: 75px;
+}
+.Note{
+	height: 550px;
+	margin-top: 50px;
+	width: 780px;
+	background: black;
+	margin-left: 95px;
+}
+.characters-list{
+	height: 70px;
+	width: 1500px;
+	background: black;
+}
+.button-characters{
+	background: black;
+	height: 30px;
+	color: white;
+}
+.characters{
+	height: 600px;
+	width: 1500px;
+	background: red;
+	margin-top: 5px;
+}
+.music-list{
+	height: 70px;
+	width: 1500px;
+	background: black;
+	margin-top: 45px;
+}
+.characters-2blocks{
+height: 300px;
+width: 1500px;
+background: black;
+}
+.characters-sami{
+	height: 300px;
+	width: 351px;
+	background: black;
+}
+.margin-left{
+	margin-left: 6px;
+}
+.music-block{
+	height: 400px;
+	width: 1500px;
+	background: white;
+	margin-top: 35px;
+}
+.music-sami{
+	height: 300px;
+	width: 351px;
+	margin-left: 6px;
+	background: pink;
+
+}
+.margin-left-links{
+	margin-left: 100px;
+}
+.mini-margin{
+	margin-left: 15px;
+}
+.h1-black{
+	color: white;
+}
+.white-words{
+	color: white;
+}
+.links-white{
+	color: white;
+}
+.music-img{
+	height: 300px;
+ 	width: 351px;
+ }
+ .music-name{
+ 	background: orange;
+ 	height: 90px;
+  	width: 351px; 
+ }
+ .audio{
+ 	height: 30px;
+ 	margin-top: 10px;
+ 	width: 350px;
+ 	
+ }
